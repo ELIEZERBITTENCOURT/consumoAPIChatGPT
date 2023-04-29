@@ -1,4 +1,4 @@
-# README
+# Consumo API ChatGPT
 
 Este código JavaScript é utilizado para enviar perguntas para a API da OpenAI e receber respostas em tempo real. O código é composto por uma constante `formPerguntaChat` que é utilizada para obter o elemento HTML que contém o formulário de perguntas do chat.
 
